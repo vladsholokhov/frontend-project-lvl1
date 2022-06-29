@@ -23,7 +23,7 @@ const getCorrectAnswer = (operator, num1, num2) => {
 const calcGameLogic = () => {
   const randomNumber1 = getRandomInt();
   const randomNumber2 = getRandomInt();
-  const operator = operators[getRandomInt(operators.length - 1)];
+  const operator = operators[getRandomInt(0, operators.length - 1)];
 
   const gameQuestion = `${randomNumber1} ${operator} ${randomNumber2}`;
   const correctAnswer = getCorrectAnswer(operator, randomNumber1, randomNumber2);
