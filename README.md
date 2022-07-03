@@ -23,11 +23,11 @@ Make sure you have Node 16+ installed.
 ### brain-calc:
 [![asciicast](https://asciinema.org/a/hrYf0ZLqUN0KSAlv8g4SWex8Z.svg)](https://asciinema.org/a/hrYf0ZLqUN0KSAlv8g4SWex8Z)
 
-### brain-gcd
+### brain-gcd:
 [![asciicast](https://asciinema.org/a/bgfbSwAtFvesRVnuGd35wC6Lk.svg)](https://asciinema.org/a/bgfbSwAtFvesRVnuGd35wC6Lk)
 
-### brain-progression
+### brain-progression:
 [![asciicast](https://asciinema.org/a/tO8HblIShZI6NU1d3t7xIfQnd.svg)](https://asciinema.org/a/tO8HblIShZI6NU1d3t7xIfQnd)
 
-### brain-prime
+### brain-prime:
 [![asciicast](https://asciinema.org/a/5jX34wRkOmJwEZcN7mH8jwCnq.svg)](https://asciinema.org/a/5jX34wRkOmJwEZcN7mH8jwCnq)
