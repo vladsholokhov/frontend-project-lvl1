@@ -18,16 +18,16 @@ Make sure you have Node 16+ installed.
 3. Run the game using its name e.g: `brain-even`
 
 ### brain-even:
-[![asciicast](https://asciinema.org/a/L5Pm17ltvDxSFAoBLVNjwt4MY.svg)](https://asciinema.org/a/L5Pm17ltvDxSFAoBLVNjwt4MY)
+[![asciicast](https://asciinema.org/a/RxhNgLui9od1FJSxxkDqtBrae.svg)](https://asciinema.org/a/RxhNgLui9od1FJSxxkDqtBrae)
 
 ### brain-calc:
-[![asciicast](https://asciinema.org/a/FkMXywg4Pcs3OByUvRYqrdxyH.svg)](https://asciinema.org/a/FkMXywg4Pcs3OByUvRYqrdxyH)
+[![asciicast](https://asciinema.org/a/hrYf0ZLqUN0KSAlv8g4SWex8Z.svg)](https://asciinema.org/a/hrYf0ZLqUN0KSAlv8g4SWex8Z)
 
 ### brain-gcd
-[![asciicast](https://asciinema.org/a/WZLpudhI3IQM9335zAT7ACyW2.svg)](https://asciinema.org/a/WZLpudhI3IQM9335zAT7ACyW2)
+[![asciicast](https://asciinema.org/a/bgfbSwAtFvesRVnuGd35wC6Lk.svg)](https://asciinema.org/a/bgfbSwAtFvesRVnuGd35wC6Lk)
 
 ### brain-progression
-[![asciicast](https://asciinema.org/a/jfLbxhcMEIIoyI4fiI4Wr1UXN.svg)](https://asciinema.org/a/jfLbxhcMEIIoyI4fiI4Wr1UXN)
+[![asciicast](https://asciinema.org/a/tO8HblIShZI6NU1d3t7xIfQnd.svg)](https://asciinema.org/a/tO8HblIShZI6NU1d3t7xIfQnd)
 
 ### brain-prime
-[![asciicast](https://asciinema.org/a/dpNgAi8K1sdR4FsoLOCqmODHg.svg)](https://asciinema.org/a/dpNgAi8K1sdR4FsoLOCqmODHg)
+[![asciicast](https://asciinema.org/a/5jX34wRkOmJwEZcN7mH8jwCnq.svg)](https://asciinema.org/a/5jX34wRkOmJwEZcN7mH8jwCnq)
