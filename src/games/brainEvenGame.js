@@ -1,20 +1,20 @@
-import gameEngine from '../index.js';
 import getRandomInt from '../utils.js';
+import startGameEngine from '../index.js';
 
 const gameDescription = 'Answer "yes" if the number is even, otherwise answer "no"!';
 
 const isEven = (num) => num % 2 === 0;
 
-const evenGameLogic = () => {
+const generateGameQuestionAndAnswer = () => {
   const randomNumber = getRandomInt();
-  const gameQuestion = `${randomNumber}`;
+  const gameQuestion = String(randomNumber);
   const correctAnswer = isEven(randomNumber) ? 'yes' : 'no';
 
   return [gameQuestion, correctAnswer];
 };
 
-const brainEvenGame = () => {
-  gameEngine(gameDescription, evenGameLogic);
+const runBrainEvenGame = () => {
+  startGameEngine(gameDescription, generateGameQuestionAndAnswer);
 };
 
-export default brainEvenGame;
+export default runBrainEvenGame;
