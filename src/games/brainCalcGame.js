@@ -4,7 +4,7 @@ import getRandomInt from '../utils.js';
 const gameDescription = 'What is the result of the expression?';
 const operators = ['+', '-', '*'];
 
-const calculator = (operator, num1, num2) => {
+const calculate = (operator, num1, num2) => {
   switch (operator) {
     case '+':
       return num1 + num2;
@@ -26,7 +26,7 @@ const generateGameQuestionAndAnswer = () => {
   const operator = operators[getRandomInt(0, operators.length - 1)];
 
   const gameQuestion = `${randomNumber1} ${operator} ${randomNumber2}`;
-  const correctAnswer = calculator(operator, randomNumber1, randomNumber2);
+  const correctAnswer = calculate(operator, randomNumber1, randomNumber2);
 
   return [gameQuestion, correctAnswer];
 };
